@@ -120,7 +120,7 @@ In this directory database related authentication are there you can configure it
 
 -> Clone the Repository using below command:
 
-git clone https://github.com/saurabhxo/cybercafeCRUD.git
+git clone https://github.com/Prerna200-ctr/CRUD-in-java
 
 ->Database Configuration:
 
